@@ -5,4 +5,4 @@
 
 ## 下载
 
-**[点击前往WizTree官方网站](https://diskanalyzer.com/download/)**
+**[点击前往WizTree官方网站](https://diskanalyzer.com/download)**
